@@ -2,11 +2,15 @@
 ..
 .. Uncomment the header that is right (remove the leading dots).
 ..
-.. Added
-.. .....
-..
-.. - A bullet item for the Added category.
-..
+Added
+.....
+
+- list of Python 3 software requirements
+
+- Python 3 software requirement:  bump2version
+
+- Python 3 software requirement:  Scriv
+
 .. Changed
 .. .......
 ..
