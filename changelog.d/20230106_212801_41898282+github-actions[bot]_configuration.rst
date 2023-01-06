@@ -5,6 +5,10 @@
 Added
 .....
 
+- Dependabot:  GitHub Action setup
+
+- Dependabot:  Python 3 setup
+
 - this CHANGELOG
 
 .. Changed
