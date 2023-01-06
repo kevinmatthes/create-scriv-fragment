@@ -98,9 +98,6 @@ Added
 
 - copyright year:  2023
 
-Changed
-.......
-
 - make Scriv fragment creation workflow use this repository's Action
 
 .. -------------------------------------------------------------------------- ..
