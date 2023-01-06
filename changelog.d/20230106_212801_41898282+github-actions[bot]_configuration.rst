@@ -5,9 +5,13 @@
 Added
 .....
 
+- CITATION.cff
+
 - Dependabot:  GitHub Action setup
 
 - Dependabot:  Python 3 setup
+
+- GitHub Action workflow:  CFF validation
 
 - this CHANGELOG
 
