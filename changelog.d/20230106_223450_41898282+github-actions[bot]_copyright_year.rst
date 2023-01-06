@@ -2,11 +2,11 @@
 ..
 .. Uncomment the header that is right (remove the leading dots).
 ..
-.. Added
-.. .....
-..
-.. - A bullet item for the Added category.
-..
+Added
+.....
+
+- copyright year:  2023
+
 .. Changed
 .. .......
 ..
