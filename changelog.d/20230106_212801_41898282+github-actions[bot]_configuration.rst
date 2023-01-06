@@ -15,6 +15,12 @@ Added
 
 - GitHub Action workflow:  CFF validation
 
+- GitHub Action workflow:  release
+
+- README:  detailed description
+
+- README:  license information
+
 - this CHANGELOG
 
 .. Changed
