@@ -5,6 +5,8 @@
 Added
 .....
 
+- bump2version:  settings
+
 - CITATION.cff
 
 - Dependabot:  GitHub Action setup
