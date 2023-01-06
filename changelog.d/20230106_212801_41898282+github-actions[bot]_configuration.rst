@@ -9,6 +9,8 @@ Added
 
 - CITATION.cff
 
+- create GitHub Action source file
+
 - Dependabot:  GitHub Action setup
 
 - Dependabot:  Python 3 setup
