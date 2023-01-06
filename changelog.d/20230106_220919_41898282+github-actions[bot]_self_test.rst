@@ -7,11 +7,11 @@
 ..
 .. - A bullet item for the Added category.
 ..
-.. Changed
-.. .......
-..
-.. - A bullet item for the Changed category.
-..
+Changed
+.......
+
+- make Scriv fragment creation workflow use this repository's Action
+
 .. Deprecated
 .. ..........
 ..
