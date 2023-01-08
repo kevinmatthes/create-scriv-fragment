@@ -22,11 +22,11 @@
 ..
 .. - A bullet item for the Fixed category.
 ..
-.. Removed
-.. .......
-..
-.. - A bullet item for the Removed category.
-..
+Removed
+.......
+
+- Dependabot:  Python 3 setup
+
 .. Security
 .. ........
 ..
