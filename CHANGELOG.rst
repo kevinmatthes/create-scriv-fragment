@@ -50,6 +50,27 @@ All pending changelog entries are stored in `changelog.d`_.
 
 .. scriv-insert-here
 
+.. _changelog-0.1.1:
+
+0.1.1 — 2023-01-08
+------------------
+
+Changed
+.......
+
+- bump2version:  track moved Scriv settings file
+
+- Scriv:  move settings to fragment storage
+
+- use own GitHub Action for release preparations
+
+Removed
+.......
+
+- placeholder in Scriv fragment storage
+
+- Python 3 software requirements list
+
 .. _changelog-0.1.0:
 
 0.1.0 — 2023-01-06
