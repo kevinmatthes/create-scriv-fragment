@@ -50,6 +50,23 @@ All pending changelog entries are stored in `changelog.d`_.
 
 .. scriv-insert-here
 
+.. _changelog-0.1.2:
+
+0.1.2 — 2023-01-13
+------------------
+
+Changed
+.......
+
+- Dependabot(deps): Bump actions/setup-python from 4.4.0 to 4.5.0
+
+- Dependabot(deps): Bump kevinmatthes/release-bump2version-scriv
+
+Removed
+.......
+
+- Dependabot:  Python 3 setup
+
 .. _changelog-0.1.1:
 
 0.1.1 — 2023-01-08
