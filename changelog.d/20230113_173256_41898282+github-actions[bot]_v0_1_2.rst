@@ -7,11 +7,13 @@
 ..
 .. - A bullet item for the Added category.
 ..
-.. Changed
-.. .......
-..
-.. - A bullet item for the Changed category.
-..
+Changed
+.......
+
+- Dependabot(deps): Bump actions/setup-python from 4.4.0 to 4.5.0
+
+- Dependabot(deps): Bump kevinmatthes/release-bump2version-scriv
+
 .. Deprecated
 .. ..........
 ..
