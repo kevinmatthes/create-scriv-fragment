@@ -12,6 +12,8 @@ Changed
 
 - CI:  rename CFF validation workflow to ``ci.yml``
 
+- README:  change CFF validation badge to CI badge
+
 .. Deprecated
 .. ..........
 ..
