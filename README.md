@@ -32,7 +32,7 @@
 
 ## Summary
 
-[![](https://github.com/kevinmatthes/create-scriv-fragment/workflows/cffconvert/badge.svg)](https://github.com/kevinmatthes/create-scriv-fragment/workflows/cffconvert)
+[![](https://github.com/kevinmatthes/create-scriv-fragment/workflows/ci/badge.svg)](https://github.com/kevinmatthes/create-scriv-fragment/workflows/ci)
 [![](https://img.shields.io/github/license/kevinmatthes/create-scriv-fragment)](https://github.com/kevinmatthes/create-scriv-fragment)
 
 A GitHub Action to create a blank Scriv fragment.
