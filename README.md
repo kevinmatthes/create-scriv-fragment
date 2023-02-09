@@ -88,7 +88,7 @@ To apply this Action, just add the following line to the step section of a
 GitHub Action workflow job.
 
 ```yaml
-      - uses: kevinmatthes/create-scriv-fragment@v0.2.0
+      - uses: kevinmatthes/create-scriv-fragment@v0.2.1
 ```
 
 <!----------------------------------------------------------------------------->
