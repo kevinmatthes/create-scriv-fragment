@@ -32,6 +32,7 @@
 
 ## Summary
 
+[![](https://bors.tech/images/badge_small.svg)](https://app.bors.tech/repositories/60488)
 [![](https://github.com/kevinmatthes/create-scriv-fragment/workflows/ci/badge.svg)](https://github.com/kevinmatthes/create-scriv-fragment/workflows/ci)
 [![](https://img.shields.io/github/license/kevinmatthes/create-scriv-fragment)](https://github.com/kevinmatthes/create-scriv-fragment)
 
