@@ -50,6 +50,23 @@ All pending changelog entries are stored in `changelog.d`_.
 
 .. scriv-insert-here
 
+.. _changelog-0.2.1:
+
+0.2.1 — 2023-02-09
+------------------
+
+Added
+.....
+
+- Bors:  initial setup
+
+- README:  Bors badge
+
+Changed
+.......
+
+- Action:  add commit message prefix ``github-actions[bot]:``
+
 .. _changelog-0.2.0:
 
 0.2.0 — 2023-01-22
