@@ -47,8 +47,8 @@ A GitHub Action to create a blank Scriv fragment.
 [![](https://img.shields.io/github/license/kevinmatthes/create-scriv-fragment)](https://github.com/kevinmatthes/create-scriv-fragment)
 
 This project's license is **GPL-3.0**.  The whole license text can be found in
-`LICENSE` in the main directory of this repository.  The brief version is as
-follows:
+[`LICENSE`](LICENSE) in the main directory of this repository.  The brief
+version is as follows:
 
 > Copyright (C) 2023 Kevin Matthes
 >
@@ -64,6 +64,9 @@ follows:
 >
 > You should have received a copy of the GNU General Public License
 > along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+License information about the dependencies this software requires to work
+can be found in [`LICENSEs`](LICENSEs).
 
 ## Description
 
