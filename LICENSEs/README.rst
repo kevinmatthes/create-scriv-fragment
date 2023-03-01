@@ -53,6 +53,9 @@
 ..
 .. _nedbat/scriv/LICENSE-Apache-2.0: nedbat/scriv/LICENSE-Apache-2.0
 ..
+.. _py-actions/py-dependency-install: https://github.com/py-actions/py-dependency-install
+.. _py-actions/py-dependency-install/LICENSE-Apache-2.0: py-actions/py-dependency-install/LICENSE-Apache-2.0
+..
 .. _rm: https://git.savannah.gnu.org/cgit/coreutils.git
 ..
 .. _Scriv: https://github.com/nedbat/scriv
@@ -139,5 +142,12 @@ Called GitHub Actions
 - local copy:  `kevinmatthes/validate-boolean/LICENSE-GPL-3.0`_
 
 - original license:  https://github.com/kevinmatthes/validate-boolean/blob/main/LICENSE
+
+`py-actions/py-dependency-install`_
+...................................
+
+- local copy:  `py-actions/py-dependency-install/LICENSE-Apache-2.0`_
+
+- original license:  https://github.com/py-actions/py-dependency-install/blob/master/LICENSE
 
 .. -------------------------------------------------------------------------- ..
