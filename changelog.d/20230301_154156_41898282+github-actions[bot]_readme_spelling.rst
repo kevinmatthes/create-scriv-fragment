@@ -7,11 +7,13 @@
 ..
 .. - A bullet item for the Added category.
 ..
-.. Changed
-.. .......
-..
-.. - A bullet item for the Changed category.
-..
+Changed
+.......
+
+- README:  adjust documentation of inputs and outputs
+
+- README:  "GitHub Actions bot" instead of "GitHub Actions Bot"
+
 .. Deprecated
 .. ..........
 ..
