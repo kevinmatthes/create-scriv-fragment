@@ -50,6 +50,56 @@ All pending changelog entries are stored in `changelog.d`_.
 
 .. scriv-insert-here
 
+.. _changelog-0.2.2:
+
+0.2.2 — 2023-03-01
+------------------
+
+Added
+.....
+
+- documentation:  software license for ``actions/checkout``
+
+- documentation:  software license for ``actions/setup-python``
+
+- documentation:  software license for ``cut``
+
+- documentation:  software license for ``echo``
+
+- documentation:  software license for ``fregante/setup-git-user``
+
+- documentation:  software license for Git
+
+- documentation:  software license for ``grep``
+
+- documentation:  software license for ``kevinmatthes/validate-boolean``
+
+- documentation:  software license for ``py-actions/py-dependency-install``
+
+- documentation:  software license for ``rm``
+
+- documentation:  software license for Scriv
+
+- README:  document new directory ``LICENSEs``
+
+Changed
+.......
+
+- README:  adjust branding information description
+
+- Action:  adjust indentation
+
+- Action:  fetch configured Git name dynamically
+
+- README:  adjust documentation of inputs and outputs
+
+- README:  "GitHub Actions bot" instead of "GitHub Actions Bot"
+
+Removed
+.......
+
+- GitHub Action workflows:  ``ad-m/github-push-action@v0.6.0`` as dependency
+
 .. _changelog-0.2.1:
 
 0.2.1 — 2023-02-09
