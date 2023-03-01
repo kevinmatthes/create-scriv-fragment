@@ -51,7 +51,11 @@
 .. _kevinmatthes/validate-boolean: https://github.com/kevinmatthes/validate-boolean
 .. _kevinmatthes/validate-boolean/LICENSE-GPL-3.0: kevinmatthes/validate-boolean/LICENSE-GPL-3.0
 ..
+.. _nedbat/scriv/LICENSE-Apache-2.0: nedbat/scriv/LICENSE-Apache-2.0
+..
 .. _rm: https://git.savannah.gnu.org/cgit/coreutils.git
+..
+.. _Scriv: https://github.com/nedbat/scriv
 ..
 .. -------------------------------------------------------------------------- ..
 
@@ -104,6 +108,13 @@ Called CLIs
 - local copy:  `.others/coreutils/LICENSE-GPL-3.0`_
 
 - original license:  https://git.savannah.gnu.org/cgit/coreutils.git/tree/COPYING
+
+`Scriv`_
+........
+
+- local copy:  `nedbat/scriv/LICENSE-Apache-2.0`_
+
+- original license:  https://github.com/nedbat/scriv/blob/main/LICENSE.txt
 
 Called GitHub Actions
 ---------------------
