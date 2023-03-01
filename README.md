@@ -72,15 +72,12 @@ can be found in [`LICENSEs`](LICENSEs).
 
 This GitHub Action will create a new Scriv fragment.  It assumes that Scriv is
 already configured and that the fragment storage exists.  The user creating the
-fragment will be the GitHub Actions Bot.
+fragment will be the GitHub Actions bot.
 
 It is recommended to execute this Action on a Linux runner.  This Action
 requires a Bash shell environment.  The repository needs to be checked out
 before the Action can be called.  After it has finished, the changeds need to
-be pushed back to the repository.
-
-This Action does neither accept and / or require any inputs nor it returns any
-outputs.
+be pushed back to the repository.  There are neither inputs nor outputs.
 
 To apply this Action, just add the following to the step section of a GitHub
 Action workflow job.
