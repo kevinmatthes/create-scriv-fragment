@@ -66,8 +66,11 @@ runs:
 
     - name: Create the fragment.
       run: |
-        scriv create --add && \
-          git commit -m 'github-actions[bot]:  Create fresh Scriv fragment'
+        scriv create --add \
+        && git commit -m \
+               "`git config --list \
+                 | grep user\.name \
+                 | cut -d= -f2`:  Create fresh Scriv fragment"
       shell: bash
 
 ################################################################################
