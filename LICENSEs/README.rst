@@ -36,6 +36,8 @@
 ..
 .. _actions/checkout: https://github.com/actions/checkout
 .. _actions/checkout/LICENSE-MIT: actions/checkout/LICENSE-MIT
+.. _actions/setup-python: https://github.com/actions/setup-python
+.. _actions/setup-python/LICENSE-MIT: actions/setup-python/LICENSE-MIT
 ..
 .. _cut: https://git.savannah.gnu.org/cgit/coreutils.git
 ..
@@ -128,6 +130,13 @@ Called GitHub Actions
 - local copy:  `actions/checkout/LICENSE-MIT`_
 
 - original license:  https://github.com/actions/checkout/blob/main/LICENSE
+
+`actions/setup-python`_
+.......................
+
+- local copy:  `actions/setup-python/LICENSE-MIT`_
+
+- original license:  https://github.com/actions/setup-python/blob/main/LICENSE
 
 `fregante/setup-git-user`_
 ..........................
