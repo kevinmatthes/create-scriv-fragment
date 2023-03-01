@@ -7,6 +7,8 @@ Added
 
 - documentation:  software license for ``actions/checkout``
 
+- documentation:  software license for ``actions/setup-python``
+
 - documentation:  software license for ``cut``
 
 - documentation:  software license for ``echo``
@@ -19,7 +21,11 @@ Added
 
 - documentation:  software license for ``kevinmatthes/validate-boolean``
 
+- documentation:  software license for ``py-actions/py-dependency-install``
+
 - documentation:  software license for ``rm``
+
+- documentation:  software license for Scriv
 
 - README:  document new directory ``LICENSEs``
 
