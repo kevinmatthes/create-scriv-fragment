@@ -7,11 +7,13 @@
 ..
 .. - A bullet item for the Added category.
 ..
-.. Changed
-.. .......
-..
-.. - A bullet item for the Changed category.
-..
+Changed
+.......
+
+- Action:  adjust indentation
+
+- Action:  fetch configured Git name dynamically
+
 .. Deprecated
 .. ..........
 ..
