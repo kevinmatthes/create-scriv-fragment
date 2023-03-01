@@ -5,6 +5,22 @@
 Added
 .....
 
+- documentation:  software license for ``actions/checkout``
+
+- documentation:  software license for ``cut``
+
+- documentation:  software license for ``echo``
+
+- documentation:  software license for ``fregante/setup-git-user``
+
+- documentation:  software license for Git
+
+- documentation:  software license for ``grep``
+
+- documentation:  software license for ``kevinmatthes/validate-boolean``
+
+- documentation:  software license for ``rm``
+
 - README:  document new directory ``LICENSEs``
 
 .. Changed
