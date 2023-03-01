@@ -39,7 +39,8 @@
 A GitHub Action to create a blank Scriv fragment.
 
 1. [License](#license)
-2. [Description](#description)
+1. [Description](#description)
+1. [Branding Information](#branding-information)
 
 ## License
 
@@ -78,17 +79,18 @@ be pushed back to the repository.
 This Action does neither accept and / or require any inputs nor it returns any
 outputs.
 
-The branding settings (green background colour with the symbol `book` as icon)
-were chosen due to the default use case of this Action.  The book symbolises
-the documentation Scriv shall enhance.  The colour green is often associated
-with the season spring which also symbolises the beginning of something new;
-here, it is the creation of a new fragment.
-
-To apply this Action, just add the following line to the step section of a
-GitHub Action workflow job.
+To apply this Action, just add the following to the step section of a GitHub
+Action workflow job.
 
 ```yaml
       - uses: kevinmatthes/create-scriv-fragment@v0.2.1
 ```
+
+## Branding Information
+
+The branding of this Action uses the icon `book` on a green background.  The
+shall symbolise the documentation which is going to be enriched with further
+information while the green colour represents the creation of the therefore
+required Scriv fragment.
 
 <!----------------------------------------------------------------------------->
