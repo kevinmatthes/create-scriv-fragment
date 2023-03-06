@@ -62,7 +62,7 @@ runs:
       shell: bash
 
     - name: Configure the user creating the fragment.
-      uses: fregante/setup-git-user@v2.0.0
+      uses: fregante/setup-git-user@v2.0.1
 
     - name: Create the fragment.
       run: |
